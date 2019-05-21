@@ -1,0 +1,11 @@
+C:\Users\fmathebu\source\repos\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp2.1\TestConsoleApp.deps.json
+C:\Users\fmathebu\source\repos\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp2.1\TestConsoleApp.runtimeconfig.json
+C:\Users\fmathebu\source\repos\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp2.1\TestConsoleApp.runtimeconfig.dev.json
+C:\Users\fmathebu\source\repos\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp2.1\TestConsoleApp.dll
+C:\Users\fmathebu\source\repos\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp2.1\TestConsoleApp.pdb
+C:\Users\fmathebu\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp2.1\TestConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\fmathebu\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp2.1\TestConsoleApp.AssemblyInfoInputs.cache
+C:\Users\fmathebu\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp2.1\TestConsoleApp.AssemblyInfo.cs
+C:\Users\fmathebu\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp2.1\TestConsoleApp.dll
+C:\Users\fmathebu\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp2.1\TestConsoleApp.pdb
+C:\Users\fmathebu\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp2.1\TestConsoleApp.csprojAssemblyReference.cache
